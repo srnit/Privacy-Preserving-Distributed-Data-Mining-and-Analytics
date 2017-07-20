@@ -1,0 +1,8 @@
+setup.py
+SSSA/__init__.py
+SSSA/sssa.py
+SSSA/utils.py
+sssa_python.egg-info/PKG-INFO
+sssa_python.egg-info/SOURCES.txt
+sssa_python.egg-info/dependency_links.txt
+sssa_python.egg-info/top_level.txt

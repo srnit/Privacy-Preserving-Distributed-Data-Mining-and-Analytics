@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: sssa-python
+Version: 0.0.2
+Summary: Helper Shamir's Secret Sharing module for Python
+Home-page: https://github.com/SSSaaS/sssa-python
+Author: Alexander Scheel
+Author-email: alexander.m.scheel@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Security :: Cryptography
